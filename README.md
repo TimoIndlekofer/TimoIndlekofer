@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📍I am an upcoming software developer (mainly web-based) in training from Germany.<br><br>🗃 Check out my portfolio: TBA</p>
+<p align="left">📍I am an upcoming software developer (mainly web-based) in training from Germany.<br><br>🗃 Check out my portfolio: TBA</p><br>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">📚 HTML 5: Currently in training<br>📚 CSS: Currently in training<br>📚 Javascript: Currently in training<br>(more to follow)<br><br>⚙️ C++: Basic skills available<br>⚙️ Python: Basic skills available</p>
+<p align="left">📚 HTML 5: Currently in training<br>📚 CSS: Currently in training<br>📚 Javascript: Currently in training<br>(more to follow)<br><br>⚙️ C++: Basic skills available<br>⚙️ Python: Basic skills available</p><br>
 
 ###
 
