@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📍I am an upcoming software developer (mainly web-based) in training from Germany.<br><br>🗃 Check out my portfolio: TBA</p><br>
+<p align="left">📍I am an upcoming software developer (mainly web-based) in training from Germany.<br>🗃 Check out my portfolio: TBA</p><br>
 
 ###
 
