@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">📚 HTML 5: Currently in training<br>📚 CSS: Currently in training<br>📚 Javascript: Currently in training<br>(more to follow)<br><br>⚙️ C++: Basic skills available<br>⚙️ Python: Basic skills available</p><br>
+<p align="left">📚 HTML 5: Currently in training<br>📚 CSS: Currently in training<br>📚 JavaScript: Currently in training<br>(more to follow)<br><br>⚙️ C++: Basic skills available<br>⚙️ Python: Basic skills available</p><br>
 
 ###
 
